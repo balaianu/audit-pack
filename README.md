@@ -3,6 +3,8 @@
 > **Contained audit workers for AI coding agents.**
 >
 > Deep specialist review from subagents that can't write past their brief — and hostile-content evaluation by an agent that can't act at all.
+>
+> **Devin-first by design.** The full plugin — namespaced skills *and* tool-restricted agents — installs natively in Devin via `devin plugins install`. Claude Code and other hosts are supported through a documented manual path (see Install); they get the same skills and containment, not the same install surface.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](CHANGELOG.md)
