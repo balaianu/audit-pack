@@ -1,0 +1,6 @@
+{
+  "name": "audit-pack",
+  "version": "0.1.0",
+  "description": "Contained audit workers: a three-axis parallel code audit and a read-only third-party repo evaluator, dispatched to tool-restricted subagents so hostile or heavy analysis can't write, execute, or reach the network beyond intent.",
+  "skills": ["skills/triple-audit", "skills/repo-eval"]
+}
